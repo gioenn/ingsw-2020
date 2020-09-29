@@ -1,8 +1,5 @@
 ## Ingegneria del Software - Esercitazioni
 
-#### Aggiornamenti
-
-tba
 
 #### Programma
 
