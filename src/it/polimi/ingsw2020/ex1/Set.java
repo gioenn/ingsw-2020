@@ -1,6 +1,6 @@
 package it.polimi.ingsw2020.ex1;
 
-public class Set {
+class Set {
 
     private int numbers[];
     private int curSize;
@@ -48,7 +48,7 @@ public class Set {
     public String toString(){
         int i = 0;
         boolean first = true;
-        String res = "{";
+        String res = super.toString()+ "\n{";
         while (i < curSize){
             if (first) first = false;
             else res += ",";

@@ -31,6 +31,7 @@ public class Stack {
         s.push(10);
         s.push(20);
         s.pop();
+        s.toString();
         System.out.println(s.pop());
     }
 
