@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class Student extends Person {
+public class Student extends Person  {
 
     private static int idGen = 0;
     public final static int GRADUATION_CREDITS = 180;
@@ -50,5 +50,19 @@ public class Student extends Person {
         return "Student "+getId();
     }
 
-   
+    @Override
+    public int compareTo(Person p) {
+        int i = super.compareTo(p);
+        if (i != 0)
+            return i;
+        else if (p instanceof Student) {
+            Student s = (Student) p;
+            Integer sId = id;
+            return sId.compareTo(s.id);
+        }
+        return 0;
+    }
+
+
+
 }
