@@ -14,7 +14,7 @@ public class Stack {
         this(10);
     }
 
-    public void push(int n){
+    public void push(int n) {
         if (cur < data.length)
             data[cur++] = n;
     }
