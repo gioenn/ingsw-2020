@@ -1,4 +1,4 @@
-package it.polimi.ingsw2019.ex5;
+package it.polimi.ingsw2020.ex5;
 
 public class PI implements Runnable {
 
