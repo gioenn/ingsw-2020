@@ -1,6 +1,7 @@
 ## Ingegneria del Software - Esercitazioni
 
 #### Lezioni
+- [Registrazione 7](https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/e066fb691a7441ca919cd2d69626a4a9/playback)
 - [Registrazione 6](https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/play/fea44fa0791f4041955005f1ee30a604)
 - [Registrazione 5](https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/play/3b8f8254200c4f0ebaceca1edd5b0501)
 - [Registrazione 4](https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/play/4a3e0815f28544efb167a71bf2643908)
